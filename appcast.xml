@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Stella</title>
+        <item>
+            <title>1.0.96</title>
+            <pubDate>Fri, 13 Nov 2026 08:14:42 +0100</pubDate>
+            <sparkle:version>96</sparkle:version>
+            <sparkle:shortVersionString>1.0.96</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/oliver-odgaard/stella-releases/releases/download/v1.0.96/Stella-1.0.96.zip" length="3488858" type="application/octet-stream" sparkle:edSignature="Oo/+3eupupBv18mcSdOEI1buVq7K6Mlb2eCvtT9PpJQW7jKmRG5THGSQPuoYKBKbrVi03usl25YgULeGh8FTCw=="/>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 05 Apr 2026 19:51:04 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/oliver-odgaard/stella-releases/releases/download/v1.0/Stella-1.0.zip" length="3588576" type="application/octet-stream" sparkle:edSignature="4nTr8pOoPRR2xesCjhpFMAxTOPEqlg78a6VCFrlFsFDBlppLuLr+wbcIiPjzY3sPsZD1lKBuv2DfuplBCMrCAQ=="/>
+        </item>
+    </channel>
+</rss>
