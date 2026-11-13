@@ -3,6 +3,15 @@
     <channel>
         <title>Stella</title>
         <item>
+            <title>1.0.97</title>
+            <pubDate>Fri, 13 Nov 2026 11:29:44 +0100</pubDate>
+            <sparkle:version>97</sparkle:version>
+            <sparkle:shortVersionString>1.0.97</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/oliver-odgaard/stella-releases/releases/download/v1.0.97/Stella-1.0.97.zip" length="3514215" type="application/octet-stream" sparkle:edSignature="v6WWP/bG3waXOq1edTW5fJ33c1DkWCaDXHbOCWy1CplucFhSdIn8g9WwdIvrJ/g3dmbjamhuBEi77vxqscPJBw=="/>
+        </item>
+        <item>
             <title>1.0.96</title>
             <pubDate>Fri, 13 Nov 2026 08:14:42 +0100</pubDate>
             <sparkle:version>96</sparkle:version>
